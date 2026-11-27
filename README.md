@@ -16,7 +16,7 @@ C# / .NET **从零到顶尖精通**的个人学习仓库。前提：你是 **C# 
 | `03_collections_generics/` | 阶段 2 | 集合与泛型 | ✅ 已生成 |
 | `04_async_await/` | 阶段 3 | 异步编程 | ✅ 已生成 |
 | `05_dotnet_tooling/` | 阶段 3 | .NET SDK / CLI / NuGet | ✅ 已生成 |
-| `06_aspnet_core/` | 阶段 4 | ASP.NET Core Web API | 📝 待生成 |
+| `06_aspnet_core/` | 阶段 4 | ASP.NET Core Web API | ✅ 已生成 |
 | `07_ef_core/` | 阶段 4 | Entity Framework Core | 📝 待生成 |
 | `08_caching_redis/` | 阶段 5 | 缓存与 Redis | 📝 待生成 |
 | `09_messaging/` | 阶段 5 | 消息与异步解耦 | 📝 待生成 |
