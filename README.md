@@ -21,7 +21,7 @@ C# / .NET **从零到顶尖精通**的个人学习仓库。前提：你是 **C# 
 | `08_caching_redis/` | 阶段 5 | 缓存与 Redis | ✅ 已生成 |
 | `09_messaging/` | 阶段 5 | 消息与异步解耦 | ✅ 已生成 |
 | `10_microservices_grpc/` | 阶段 6 | 微服务与 gRPC 心智 | ✅ 已生成 |
-| `11_testing/` | 穿插 | 单元测试与 Mock | 📝 待生成 |
+| `11_testing/` | 穿插 | 单元测试与 Mock | ✅ 已生成 |
 | `12_observability/` | 阶段 6 | 可观测性 | 📝 待生成 |
 | `13_project_capstone/` | 毕业 | 综合小项目 | 📝 待生成 |
 | `14_production_dotnet/` | 精通 | 生产级 .NET 工程 | 📝 待生成 |
