@@ -14,7 +14,7 @@ C# / .NET **从零到顶尖精通**的个人学习仓库。前提：你是 **C# 
 | `01_oop_csharp/` | 阶段 2 | 面向对象与类型系统 | ✅ 已生成 |
 | `02_modern_csharp/` | 阶段 2 | 现代 C#（LINQ/可空/模式/record） | ✅ 已生成 |
 | `03_collections_generics/` | 阶段 2 | 集合与泛型 | ✅ 已生成 |
-| `04_async_await/` | 阶段 3 | 异步编程 | 📝 待生成 |
+| `04_async_await/` | 阶段 3 | 异步编程 | ✅ 已生成 |
 | `05_dotnet_tooling/` | 阶段 3 | .NET SDK / CLI / NuGet | 📝 待生成 |
 | `06_aspnet_core/` | 阶段 4 | ASP.NET Core Web API | 📝 待生成 |
 | `07_ef_core/` | 阶段 4 | Entity Framework Core | 📝 待生成 |
