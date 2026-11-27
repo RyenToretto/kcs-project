@@ -27,7 +27,7 @@ C# / .NET **从零到顶尖精通**的个人学习仓库。前提：你是 **C# 
 | `14_production_dotnet/` | 精通 | 生产级 .NET 工程 | ✅ 已生成 |
 | `15_concurrency_advanced/` | 精通 | 并发深挖 | ✅ 已生成 |
 | `16_data_infra/` | 精通 | 数据与中间件深挖 | ✅ 已生成 |
-| `17_clr_runtime/` | 精通 | CLR / GC / 内存 | 📝 待生成 |
+| `17_clr_runtime/` | 精通 | CLR / GC / 内存 | ✅ 已生成 |
 | `18_cloud_native/` | 精通 | 云原生 | 📝 待生成 |
 | `19_architecture/` | 精通 | 架构与 SRE | 📝 待生成 |
 
